@@ -42,23 +42,6 @@
     )
   )
 
-  (sheet (at 165.1 20.32) (size 38.1 16.51) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 4b8d2594-c092-432a-ac01-6a47c7ff31d8)
-    (property "Sheetname" "button-line" (at 165.1 19.6084 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "button-line.kicad_sch" (at 165.1 37.4146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "piezzo"
-        (path "/2a569c31-bb52-4c3d-ae7f-45f2860154f7" (page "6"))
-      )
-    )
-  )
-
   (sheet (at 55.88 19.05) (size 34.29 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
